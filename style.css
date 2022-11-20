@@ -1,0 +1,150 @@
+
+.background-blue{
+  background: #519DFE;
+}
+.background-dark{
+  background: black;
+}
+.background-light{
+  background: #F6F6F7;
+}
+.w-100{
+  width: 100%;
+}
+.w-15{
+  width: 15%;
+}
+.w-30{
+  width: 32%;
+}
+.w-5{
+  width: 1%;
+}
+.w-50{
+  width: 50%;
+}
+.w-70{
+  width: 70%;
+}
+.w-85{
+  width: 85%;
+}
+.nav{
+
+}
+.nav img{
+  width: 100px;
+}
+.nav ul{
+  float: right;
+  list-style: none;
+  margin: 4% 0;
+}
+.nav ul li{
+  display: inline;
+  padding: 5px 10px;
+}
+.nav ul li a{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+.nav ul li a:hover{
+  text-decoration: underline;
+}
+.banner{
+  margin-top: -3px;
+}
+footer{
+  padding: 100px auto;
+  margin-top: -3px;
+}
+footer ul li{
+  padding: 8px 0;
+}
+footer ul li a{
+  text-decoration: none;
+  color: black;
+}
+footer ul li a:hover{
+  text-decoration: underline;
+}
+v-align{
+  vertical-align:super;
+}
+.footer-right{
+  padding-left: 30px;
+}
+label, input, textarea{
+  display: block;
+  width: 100%;
+  padding: 8px 5px;
+  border-radius: 4px;
+}
+footer form a{
+  display: block;
+  width: 100%;
+  margin: 5px 5px;
+  padding: 10px 0;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+}
+footer form a:hover{
+  background: #2786FE;
+}
+
+#about-us{
+  padding: 20px 200px;
+}
+#about-us a{
+  display: block;
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  text-decoration: none;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+#about-us a:hover{
+  background: #2786FE;
+}
+.section{
+  padding: 60px 0;
+}
+.women{
+  background: #FFFFE7;
+}
+.section .title{
+  text-align: center;
+}
+.product{
+  border: 1px solid #BCBDBF;
+  overflow: hidden;
+  padding: 5px;
+  box-sizing: border-box;
+  background: white;
+}
+.button{
+  padding: 0 10px;
+}
+.button a{
+  text-decoration: none;
+  background: #2786FE;
+  border-radius: 3px;
+  padding: 7px 10px;
+  color: white;
+}
+.button a:hover{
+  background: #0773FC;
+}
+.float-right{
+  float: right;
+}
+.float-left{
+  float: left;
+}
